@@ -2,7 +2,6 @@ package com.Woo.BeanValidation.controller;
 
 import com.Woo.BeanValidation.form.UserForm;
 import lombok.extern.slf4j.Slf4j;
-import org.apache.catalina.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.ModelAttribute;
